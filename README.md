@@ -7,7 +7,7 @@
 
 <!-- - 🌱 Passonate  **FullStack Software Engineer** -->
 
-- 📫 How to reach me 👉 **prayash.shrestha987@gmail.com**
+- 📫 How to reach me 👉 **prayash.shrestha9987@gmail.com**
 
 ### 💻 Stack I Work With
 
